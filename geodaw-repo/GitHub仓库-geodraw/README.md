@@ -38,7 +38,7 @@ python -m http.server 8000
 ## 反馈
 
 网页右上角「提交反馈」按钮直达 Issues；或访问
-https://github.com/YOUR-USERNAME/geodraw/issues 。
+https://github.com/odysseus-2026/geodraw/issues 。
 
 ## License
 
